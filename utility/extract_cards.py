@@ -11,7 +11,6 @@ def find_matches(file_path):
 def remove_duplicates(matches):
     return list(set(matches))
 
-# Funzione per scrivere l'output in un file
 def write_output(matches, output_file_path):
     with open(output_file_path, 'w') as file:
         for match in matches:
