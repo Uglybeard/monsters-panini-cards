@@ -2,11 +2,11 @@
 
 # Carte Monsters! Panini
 
-Di seguito sono elencate tutte le carte del set di carte collezionabili `Monsters!`, pubblicato da **Panini**. La collezione Monsters! di **Dario Moccia** raccoglie **198** carte, divise tra Comuni e Rare e 2 carte promozionali, per un totale di 200 carte. I 200 mostri scelti provengono da tutto il mondo, attingendo tra differenti culture, mitologie, religioni, cosmologie e folklore.
+Di seguito sono elencate tutte le carte del set di carte collezionabili `Monsters!`, pubblicato da **Panini**. La collezione Monsters! a cura di **Dario Moccia** raccoglie **198** carte, divise tra Comuni e Rare e 2 carte promozionali, per un totale di 200 carte. I 200 mostri scelti provengono da tutto il mondo, attingendo tra differenti culture, mitologie, religioni, cosmologie e folklore.
 
 ### Collaboratori
 
-Un sentito ringraziamento a Ozzy per aver realizzato le fotografie che hanno contribuito alla realizzazione di questo progetto.
+Un sentito ringraziamento a Ozzy per aver realizzato le fotografie che hanno contribuito alla realizzazione di questo progetto. Ringrazio inoltre Mau42 per l'aiuto con la revisione del progetto.
 
 ## Elenco carte
 

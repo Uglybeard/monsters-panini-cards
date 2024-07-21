@@ -6,7 +6,7 @@ Below is a list of all the cards from the collectible card set `Monsters!`, publ
 
 ### Collaborator
 
-A heartfelt thank you to Ozzy for creating the photographs that contributed to the realization of this project.
+A heartfelt thank you to Ozzy for creating the photographs that contributed to the realization of this project. I would also like to thank Mau42 for his help with the project review.
 
 ## Card List
 
