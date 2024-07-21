@@ -1,0 +1,3 @@
+# Minokawa
+
+![](../images/minokawa.jpg)

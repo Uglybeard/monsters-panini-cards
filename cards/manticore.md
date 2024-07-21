@@ -1,0 +1,3 @@
+# Manticore
+
+![](../images/manticore.jpg)

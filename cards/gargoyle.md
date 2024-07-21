@@ -1,0 +1,3 @@
+# Gargoyle
+
+![](../images/gargoyle.jpg)

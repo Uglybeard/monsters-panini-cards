@@ -1,0 +1,3 @@
+# Zahhāk
+
+![](../images/zahhak.jpg)

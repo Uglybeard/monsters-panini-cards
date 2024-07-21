@@ -1,0 +1,3 @@
+# Gashadokuro
+
+![](../images/gashadokuro.jpg)

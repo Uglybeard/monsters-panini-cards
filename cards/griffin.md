@@ -1,0 +1,3 @@
+# Griffin
+
+![](../images/griffin.jpg)

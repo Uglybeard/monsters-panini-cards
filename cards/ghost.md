@@ -1,0 +1,3 @@
+# Ghost
+
+![](../images/ghost.jpg)

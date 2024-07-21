@@ -1,0 +1,3 @@
+# Kraken
+
+![](../images/kraken.jpg)

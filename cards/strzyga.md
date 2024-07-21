@@ -1,0 +1,3 @@
+# Strzyga
+
+![](../images/strzyga.jpg)

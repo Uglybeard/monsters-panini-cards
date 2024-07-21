@@ -1,0 +1,3 @@
+# Kuyūthā
+
+![](../images/kuyutha.jpg)

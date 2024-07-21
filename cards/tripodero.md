@@ -1,0 +1,3 @@
+# Tripodero
+
+![](../images/tripodero.jpg)

@@ -1,0 +1,3 @@
+# Namazu
+
+![](../images/namazu.jpg)

@@ -1,0 +1,3 @@
+# Yeti
+
+![](../images/yeti.jpg)

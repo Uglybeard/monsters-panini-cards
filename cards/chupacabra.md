@@ -1,0 +1,3 @@
+# Chupacabra
+
+![](../images/chupacabra.jpg)
