@@ -22,7 +22,7 @@ A heartfelt thank you to Ozzy for creating the photographs that contributed to t
 | 8      | Rare   | [Dagon](./cards/dagon.md)                     |
 | 9      | Rare   | [Draco](./cards/draco.md)                     |
 | 10     | Rare   | [Echidna](./cards/echidna.md)                 |
-| 11     | Rare   | [Grim Reaper](./cards/grimreaper.md)          |
+| 11     | Rare   | [Grim Reaper](./cards/grim-reaper.md)         |
 | 12     | Rare   | [Gugalanna](./cards/gugalanna.md)             |
 | 13     | Rare   | [Humbaba](./cards/humbaba.md)                 |
 | 14     | Rare   | [Iku-Turso](./cards/iku-turso.md)             |
@@ -50,7 +50,7 @@ A heartfelt thank you to Ozzy for creating the photographs that contributed to t
 | 36     | Rare   | [Sekhmet](./cards/sekhmet.md)                 |
 | 37     | Rare   | [Seraph](./cards/seraph.md)                   |
 | 38     | Rare   | [Shenlong](./cards/shenlong.md)               |
-| 39     | Rare   | [Sun Wukong](./cards/sunwukong.md)            |
+| 39     | Rare   | [Sun Wukong](./cards/sun-wukong.md)            |
 | 40     | Rare   | [Tepēyōllōtl](./cards/tepēyōllōtl.md)         |
 | 41     | Rare   | [Tū-Te-Wehiwehi](./cards/tū-te-wehiwehi.md)   |
 | 42     | Rare   | [Typhon](./cards/typhon.md)                   |
@@ -82,7 +82,7 @@ A heartfelt thank you to Ozzy for creating the photographs that contributed to t
 | 68     | Common | [Bigfoot](./cards/bigfoot.md)                 |
 | 69     | Common | [Black Annis](./cards/black-annis.md)         |
 | 70     | Common | [Blemmyae](./cards/blemmyae.md)               |
-| 71     | Common | [Bloody Bones](./cards/bloodybones.md)        |
+| 71     | Common | [Bloody Bones](./cards/bloody-bones.md)        |
 | 72     | Common | [Boogeyman](./cards/boogeyman.md)             |
 | 73     | Common | [Buer](./cards/buer.md)                       |
 | 74     | Common | [Bulgasari](./cards/bulgasari.md)             |
@@ -98,7 +98,7 @@ A heartfelt thank you to Ozzy for creating the photographs that contributed to t
 | 84     | Common | [Curupira](./cards/curupira.md)               |
 | 85     | Common | [Dagwanoenyent](./cards/dagwanoenyent.md)     |
 | 86     | Common | [Dakuwaqa](./cards/dakuwaqa.md)               |
-| 87     | Common | [Dames Blanches](./cards/damesblanches.md)    |
+| 87     | Common | [Dames Blanches](./cards/dames-blanches.md)    |
 | 88     | Common | [Diao Si Gui](./cards/diao-si-gui.md)         |
 | 89     | Common | [Dibbuk](./cards/dibbuk.md)                   |
 | 90     | Common | [Djinn](./cards/djinn.md)                     |
@@ -144,7 +144,7 @@ A heartfelt thank you to Ozzy for creating the photographs that contributed to t
 | 130    | Common | [Kitsune](./cards/kitsune.md)                 |
 | 131    | Common | [Klabautermann](./cards/klabautermann.md)     |
 | 132    | Common | [Krampus](./cards/krampus.md)                 |
-| 133    | Common | [La Carretanagua](./cards/lacarretanagua.md)  |
+| 133    | Common | [La Carretanagua](./cards/la-carretanagua.md)  |
 | 134    | Common | [Lenghelo](./cards/lenghelo.md)               |
 | 135    | Common | [Leprechaun](./cards/leprechaun.md)           |
 | 136    | Common | [Lilith](./cards/lilith.md)                   |
@@ -157,7 +157,7 @@ A heartfelt thank you to Ozzy for creating the photographs that contributed to t
 | 143    | Common | [Menk](./cards/menk.md)                       |
 | 144    | Common | [Minotaur](./cards/minotaur.md)               |
 | 145    | Common | [Mothman](./cards/mothman.md)                 |
-| 146    | Common | [Munuanë](./cards/munuanë.md)                 |
+| 146    | Common | [Munuanë](./cards/munuane.md)                 |
 | 147    | Common | [Nadubi](./cards/nadubi.md)                   |
 | 148    | Common | [Naga](./cards/naga.md)                       |
 | 149    | Common | [Nahual](./cards/nahual.md)                   |
@@ -167,28 +167,28 @@ A heartfelt thank you to Ozzy for creating the photographs that contributed to t
 | 153    | Common | [Olgoi-Khorkhoi](./cards/olgoi-khorkhoi.md)   |
 | 154    | Common | [Ördög](./cards/ördög.md)                     |
 | 155    | Common | [Orobas](./cards/orobas.md)                   |
-| 156    | Common | [O’ Munaciello](./cards/o’-munaciello.md)     |
+| 156    | Common | [O’ Munaciello](./cards/o-munaciello.md)     |
 | 157    | Common | [Pachamama](./cards/pachamama.md)             |
 | 158    | Common | [Penanggalan](./cards/penanggalan.md)         |
 | 159    | Common | [Piasa](./cards/piasa.md)                     |
 | 160    | Common | [Popobawa](./cards/popobawa.md)               |
 | 161    | Common | [Poroniec](./cards/poroniec.md)               |
 | 162    | Common | [Preta](./cards/preta.md)                     |
-| 163    | Common | [Ratoncito Pérez](./cards/ratoncitopérez.md)  |
+| 163    | Common | [Ratoncito Pérez](./cards/ratoncito-pérez.md)  |
 | 164    | Common | [Roc](./cards/roc.md)                         |
 | 165    | Common | [Rompo](./cards/rompo.md)                     |
 | 166    | Common | [Rumptifusel](./cards/rumptifusel.md)         |
 | 167    | Common | [Samjok-o](./cards/samjok-o.md)               |
 | 168    | Common | [Sandman](./cards/sandman.md)                 |
-| 169    | Common | [Santa Compaña](./cards/santa-compaña.md)     |
+| 169    | Common | [Santa Compaña](./cards/santa-compana.md)     |
 | 170    | Common | [Shahmaran](./cards/shahmaran.md)             |
 | 171    | Common | [Shishi](./cards/shishi.md)                   |
 | 172    | Common | [Siren](./cards/siren.md)                     |
-| 173    | Common | [Skeljaskrímsli](./cards/skeljaskrímsli.md)   |
+| 173    | Common | [Skeljaskrímsli](./cards/skeljaskrimsli.md)   |
 | 174    | Common | [Sluagh](./cards/sluagh.md)                   |
 | 175    | Common | [Soucouyant](./cards/soucouyant.md)           |
 | 176    | Common | [Sphinx](./cards/sphinx.md)                   |
-| 177    | Common | [Spider Grandm.](./cards/spider-grandm.md)    |
+| 177    | Common | [Spider Grandmother](./cards/spider-grandmother.md)    |
 | 178    | Common | [Spring-heeled Jack](./cards/spring-heeled-jack.md) |
 | 179    | Common | [Strzyga](./cards/strzyga.md)                 |
 | 180    | Common | [Tah-Tah-Kle’-Ah](./cards/tah-tah-kle’-ah.md)|
