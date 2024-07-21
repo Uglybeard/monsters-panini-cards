@@ -1,3 +1,3 @@
-# Raijin&fujin
+# Raijin & Fujin
 
 ![](../images/raijin&fujin.jpg)
