@@ -1,3 +1,0 @@
-# Grimreaper
-
-![](../images/grimreaper.jpg)

@@ -1,3 +1,0 @@
-# Damesblanches
-
-![](../images/damesblanches.jpg)

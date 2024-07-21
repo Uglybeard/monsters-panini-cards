@@ -1,3 +1,3 @@
-# Baba jaga
+# Baba Jaga
 
 ![](../images/baba-jaga.jpg)

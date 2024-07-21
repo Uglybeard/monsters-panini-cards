@@ -22,7 +22,7 @@ Un sentito ringraziamento a Ozzy per aver realizzato le fotografie che hanno con
 | 8      | Rara   | [Dagon](./cards/dagon.md)                     |
 | 9      | Rara   | [Draco](./cards/draco.md)                     |
 | 10     | Rara   | [Echidna](./cards/echidna.md)                 |
-| 11     | Rara   | [Grim Reaper](./cards/grimreaper.md)          |
+| 11     | Rara   | [Grim Reaper](./cards/grim-reaper.md)         |
 | 12     | Rara   | [Gugalanna](./cards/gugalanna.md)             |
 | 13     | Rara   | [Humbaba](./cards/humbaba.md)                 |
 | 14     | Rara   | [Iku-Turso](./cards/iku-turso.md)             |
@@ -50,7 +50,7 @@ Un sentito ringraziamento a Ozzy per aver realizzato le fotografie che hanno con
 | 36     | Rara   | [Sekhmet](./cards/sekhmet.md)                 |
 | 37     | Rara   | [Seraph](./cards/seraph.md)                   |
 | 38     | Rara   | [Shenlong](./cards/shenlong.md)               |
-| 39     | Rara   | [Sun Wukong](./cards/sunwukong.md)            |
+| 39     | Rara   | [Sun Wukong](./cards/sun-wukong.md)            |
 | 40     | Rara   | [Tepēyōllōtl](./cards/tepēyōllōtl.md)         |
 | 41     | Rara   | [Tū-Te-Wehiwehi](./cards/tū-te-wehiwehi.md)   |
 | 42     | Rara   | [Typhon](./cards/typhon.md)                   |
@@ -82,7 +82,7 @@ Un sentito ringraziamento a Ozzy per aver realizzato le fotografie che hanno con
 | 68     | Comune | [Bigfoot](./cards/bigfoot.md)                 |
 | 69     | Comune | [Black Annis](./cards/black-annis.md)         |
 | 70     | Comune | [Blemmyae](./cards/blemmyae.md)               |
-| 71     | Comune | [Bloody Bones](./cards/bloodybones.md)        |
+| 71     | Comune | [Bloody Bones](./cards/bloody-bones.md)        |
 | 72     | Comune | [Boogeyman](./cards/boogeyman.md)             |
 | 73     | Comune | [Buer](./cards/buer.md)                       |
 | 74     | Comune | [Bulgasari](./cards/bulgasari.md)             |
@@ -98,7 +98,7 @@ Un sentito ringraziamento a Ozzy per aver realizzato le fotografie che hanno con
 | 84     | Comune | [Curupira](./cards/curupira.md)               |
 | 85     | Comune | [Dagwanoenyent](./cards/dagwanoenyent.md)     |
 | 86     | Comune | [Dakuwaqa](./cards/dakuwaqa.md)               |
-| 87     | Comune | [Dames Blanches](./cards/damesblanches.md)    |
+| 87     | Comune | [Dames Blanches](./cards/dames-blanches.md)    |
 | 88     | Comune | [Diao Si Gui](./cards/diao-si-gui.md)         |
 | 89     | Comune | [Dibbuk](./cards/dibbuk.md)                   |
 | 90     | Comune | [Djinn](./cards/djinn.md)                     |
@@ -144,7 +144,7 @@ Un sentito ringraziamento a Ozzy per aver realizzato le fotografie che hanno con
 | 130    | Comune | [Kitsune](./cards/kitsune.md)                 |
 | 131    | Comune | [Klabautermann](./cards/klabautermann.md)     |
 | 132    | Comune | [Krampus](./cards/krampus.md)                 |
-| 133    | Comune | [La Carretanagua](./cards/lacarretanagua.md)  |
+| 133    | Comune | [La Carretanagua](./cards/la-carretanagua.md)  |
 | 134    | Comune | [Lenghelo](./cards/lenghelo.md)               |
 | 135    | Comune | [Leprechaun](./cards/leprechaun.md)           |
 | 136    | Comune | [Lilith](./cards/lilith.md)                   |
@@ -157,7 +157,7 @@ Un sentito ringraziamento a Ozzy per aver realizzato le fotografie che hanno con
 | 143    | Comune | [Menk](./cards/menk.md)                       |
 | 144    | Comune | [Minotaur](./cards/minotaur.md)               |
 | 145    | Comune | [Mothman](./cards/mothman.md)                 |
-| 146    | Comune | [Munuanë](./cards/munuanë.md)                 |
+| 146    | Comune | [Munuanë](./cards/munuane.md)                 |
 | 147    | Comune | [Nadubi](./cards/nadubi.md)                   |
 | 148    | Comune | [Naga](./cards/naga.md)                       |
 | 149    | Comune | [Nahual](./cards/nahual.md)                   |
@@ -167,28 +167,28 @@ Un sentito ringraziamento a Ozzy per aver realizzato le fotografie che hanno con
 | 153    | Comune | [Olgoi-Khorkhoi](./cards/olgoi-khorkhoi.md)   |
 | 154    | Comune | [Ördög](./cards/ördög.md)                     |
 | 155    | Comune | [Orobas](./cards/orobas.md)                   |
-| 156    | Comune | [O’ Munaciello](./cards/o’-munaciello.md)     |
+| 156    | Comune | [O’ Munaciello](./cards/o-munaciello.md)     |
 | 157    | Comune | [Pachamama](./cards/pachamama.md)             |
 | 158    | Comune | [Penanggalan](./cards/penanggalan.md)         |
 | 159    | Comune | [Piasa](./cards/piasa.md)                     |
 | 160    | Comune | [Popobawa](./cards/popobawa.md)               |
 | 161    | Comune | [Poroniec](./cards/poroniec.md)               |
 | 162    | Comune | [Preta](./cards/preta.md)                     |
-| 163    | Comune | [Ratoncito Pérez](./cards/ratoncitopérez.md)  |
+| 163    | Comune | [Ratoncito Pérez](./cards/ratoncito-pérez.md)  |
 | 164    | Comune | [Roc](./cards/roc.md)                         |
 | 165    | Comune | [Rompo](./cards/rompo.md)                     |
 | 166    | Comune | [Rumptifusel](./cards/rumptifusel.md)         |
 | 167    | Comune | [Samjok-o](./cards/samjok-o.md)               |
 | 168    | Comune | [Sandman](./cards/sandman.md)                 |
-| 169    | Comune | [Santa Compaña](./cards/santa-compaña.md)     |
+| 169    | Comune | [Santa Compaña](./cards/santa-compana.md)     |
 | 170    | Comune | [Shahmaran](./cards/shahmaran.md)             |
 | 171    | Comune | [Shishi](./cards/shishi.md)                   |
 | 172    | Comune | [Siren](./cards/siren.md)                     |
-| 173    | Comune | [Skeljaskrímsli](./cards/skeljaskrímsli.md)   |
+| 173    | Comune | [Skeljaskrímsli](./cards/skeljaskrimsli.md)   |
 | 174    | Comune | [Sluagh](./cards/sluagh.md)                   |
 | 175    | Comune | [Soucouyant](./cards/soucouyant.md)           |
 | 176    | Comune | [Sphinx](./cards/sphinx.md)                   |
-| 177    | Comune | [Spider Grandm.](./cards/spider-grandm.md)    |
+| 177    | Comune | [Spider Grandmother](./cards/spider-grandmother.md)    |
 | 178    | Comune | [Spring-heeled Jack](./cards/spring-heeled-jack.md) |
 | 179    | Comune | [Strzyga](./cards/strzyga.md)                 |
 | 180    | Comune | [Tah-Tah-Kle’-Ah](./cards/tah-tah-kle’-ah.md)|

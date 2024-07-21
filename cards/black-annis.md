@@ -1,3 +1,3 @@
-# Black annis
+# Black Annis
 
 ![](../images/black-annis.jpg)

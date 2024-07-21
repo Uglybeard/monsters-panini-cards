@@ -1,3 +1,0 @@
-# Lacarretanagua
-
-![](../images/lacarretanagua.jpg)

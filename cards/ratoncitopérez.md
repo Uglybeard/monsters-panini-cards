@@ -1,3 +1,0 @@
-# Ratoncitopérez
-
-![](../images/ratoncitopérez.jpg)

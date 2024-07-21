@@ -1,3 +1,0 @@
-# Munuanë
-
-![](../images/munuanë.jpg)

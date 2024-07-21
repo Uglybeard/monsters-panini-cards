@@ -1,3 +1,0 @@
-# Bloodybones
-
-![](../images/bloodybones.jpg)

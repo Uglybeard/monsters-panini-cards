@@ -1,3 +1,3 @@
-# Lou carcolh
+# Lou Carcolh
 
 ![](../images/lou-carcolh.jpg)

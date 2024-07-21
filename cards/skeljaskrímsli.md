@@ -1,3 +1,0 @@
-# Skeljaskrímsli
-
-![](../images/skeljaskrímsli.jpg)

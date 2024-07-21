@@ -1,3 +1,3 @@
-# Loch ness monster
+# Loch Ness Monster
 
 ![](../images/loch-ness-monster.jpg)
