@@ -206,5 +206,5 @@ Di seguito sono elencate tutte le carte del set di carte collezionabili `Monster
 | 196    | [Yara-Ma-Yha-Who](./cards/yara-ma-yha-who.md)|
 | 197    | [Yeti](./cards/yeti.md)                      |
 | 198    | [Zombie](./cards/zombie.md)                  |
-| PROMO  | [Chtulhu](./cards/cthulhu.mg)                |
-| PROMO  | [Great Beast](./cards/great-beast)           |
+| PROMO  | [Chtulhu](./cards/cthulhu.md)                |
+| PROMO  | [Great Beast](./cards/great-beast.md)           |
