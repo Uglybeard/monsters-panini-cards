@@ -1,0 +1,3 @@
+# Chthulhu
+
+![](../images/chthulhu.jpg)
