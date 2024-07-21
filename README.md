@@ -2,7 +2,7 @@
 
 # Cosmo Holo
 
-Di seguito sono elencate tutte le carte del set di carte collezionabili `Monsters!`. Se possiedi una carta non presente in questo elenco, ti preghiamo cortesemente di contattare [@Uglybeard](https://t.me/Uglybeard) o [@BabaFaba](https://t.me/Baba_Faba) su Telegram, oppure di creare direttamente una pull request su GitHub. Assicurati di allegare una fotografia del fronte e del retro della carta, in modo da consentirci di aggiornare l'elenco e tenere traccia di tutte le carte trovate fino ad ora. Grazie per il tuo contributo!
+Di seguito sono elencate tutte le carte del set di carte collezionabili `Monsters!`, pubblicato da **Panini**. La collezione Monsters! di **Dario Moccia** raccoglie **198** carte, divise tra Comuni e Rare e 2 carte promozionali, per un totale di 200 carte. I 200 mostri scelti provengono da tutto il mondo, attingendo tra differenti culture, mitologie, religioni, cosmologie e folklore.
 
 ## Elenco carte
 
@@ -39,15 +39,15 @@ Di seguito sono elencate tutte le carte del set di carte collezionabili `Monster
 | 29     | [Paimon](./cards/paimon.md)                   |
 | 30     | [Qilin](./cards/qilin.md)                     |
 | 31     | [Quetzalcoatl](./cards/quetzalcoatl.md)       |
-| 32     | [Ra](./cards/ra.md)                          |
-| 33     | [Raijin & Fujin](./cards/raijin&fujin.md)    |
+| 32     | [Ra](./cards/ra.md)                           |
+| 33     | [Raijin & Fujin](./cards/raijin&fujin.md)     |
 | 34     | [Ratatoskr](./cards/ratatoskr.md)             |
 | 35     | [Ravana](./cards/ravana.md)                   |
 | 36     | [Sekhmet](./cards/sekhmet.md)                 |
 | 37     | [Seraph](./cards/seraph.md)                   |
 | 38     | [Shenlong](./cards/shenlong.md)               |
 | 39     | [Sun Wukong](./cards/sunwukong.md)            |
-| 40     | [Tepēyōllōtl](./cards/tepēyōllōtl.md)        |
+| 40     | [Tepēyōllōtl](./cards/tepēyōllōtl.md)         |
 | 41     | [Tū-Te-Wehiwehi](./cards/tū-te-wehiwehi.md)   |
 | 42     | [Typhon](./cards/typhon.md)                   |
 | 43     | [Varaha](./cards/varaha.md)                   |
@@ -61,9 +61,9 @@ Di seguito sono elencate tutte le carte del set di carte collezionabili `Monster
 | 51     | [Acalica](./cards/acalica.md)                 |
 | 52     | [Afanc](./cards/afanc.md)                     |
 | 53     | [Agnus Scythicus](./cards/agnusscythicus.md)  |
-| 54     | [Ahkiyyini](./cards/ahkiyyini.md)            |
+| 54     | [Ahkiyyini](./cards/ahkiyyini.md)             |
 | 55     | [Ahool](./cards/ahool.md)                     |
-| 56     | [Al](./cards/al.md)                          |
+| 56     | [Al](./cards/al.md)                           |
 | 57     | [Alber](./cards/alber.md)                     |
 | 58     | [Amaru](./cards/amaru.md)                     |
 | 59     | [Anansi](./cards/anansi.md)                   |
@@ -103,7 +103,7 @@ Di seguito sono elencate tutte le carte del set di carte collezionabili `Monster
 | 93     | [Draugr](./cards/draugr.md)                   |
 | 94     | [Dullahan](./cards/dullahan.md)               |
 | 95     | [Dwarf](./cards/dwarf.md)                     |
-| 96     | [Elf](./cards/elf.md)                        |
+| 96     | [Elf](./cards/elf.md)                         |
 | 97     | [Emela-Ntouka](./cards/emela-ntouka.md)       |
 | 98     | [Erchitu](./cards/erchitu.md)                 |
 | 99     | [Fachan](./cards/fachan.md)                   |
